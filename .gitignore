@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+pacemaker_sign.jks.bak
+pacemaker_upload_cert.pem
